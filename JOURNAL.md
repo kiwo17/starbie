@@ -16,12 +16,6 @@
 
 1. [2026-10-06 — # Making progress and brainstorming...](#2026-10-06-making-progress-and-brainstorming)
 
-## Design
-
-### 2026-10-06 — # Making progress and brainstorming...
-
-**2h**
-
 # Making progress and brainstorming...
 
 Today I finally posted my first reel!
@@ -32,16 +26,16 @@ After some thinking and editing, I finally posted a real explaining my first pro
 First, I thought about my project during the day and collected some ideas for the reel.
 After sorting through my many thoughts I decided to get to work.
 
-	- took a picture of my sketch
+- took a picture of my sketch
 
-	![sketch](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2nSU0FeFWUdKhTj1YkXaIuxV7KZ67ZbK/4f617294aa324a819df1aaadb28b246cec3cebafc5b670fb026b116c90cc28e2.jpg)
+	![sketch](images/reel.jpg)
 
-	- edited the photo and turned it to a video
+- edited the photo and turned it to a video
 
-	![editing](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2nSU0FeFWUdKhTj1YkXaIuxV7KZ67ZbK/6860f78040610a5d10c6c2a70a55210a027f26ac5a08d6e37a919d57440ba6ad.jpg)
+	![editing](images/sketch.jpg)
 
-	- recorded the audio, added it
-	- exported the final product and posted
+- recorded the audio, added it
+- exported the final product and posted
 
 Usually, I find it difficult to make progress but today everything worked really well.
 
@@ -50,6 +44,8 @@ rehearsing it a few times, it finally clicked.
 
 ### Next Steps
 
-	- Read the Starbie guide
-	- Start to planning and organizing
-	- Understand the project
+- Read the Starbie guide
+- Start to planning and organizing
+- Understand the project
+
+**2h**
