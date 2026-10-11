@@ -1,7 +1,7 @@
 # My first PCB
 Creating a desktop Tamagotchi, the starbie
 
-![starbie](images/Starbie Render.png)
+![starbie](https://github.com/kiwo17/starbie/blob/main/images/Starbie%20Render.png)
 
 # Project 
 
