@@ -16,12 +16,27 @@ I would recommend such guides to people who are just starting out. As a beginner
 
 ### Currently working on ...
 
-  - the firmware
+  - the design is done
     
 ### Next steps ...
 
-  - finish programming
-  - update BOM.md and JOURNAL.md
+  - assemble it
+  - customization 
+
+## Process
+
+This is my first hardware project and I am pretty excited about it! 
+
+As I mentioned before, I followed a [guide](https://github.com/SharKingStudios/Starbie/blob/main/Week%201%20Guide.md) for this project. 
+I kept practically all of the guides structure for my guide too because I do not feel comfortable experimenting yet. 
+
+I only changed two things:
+
+  - The board drawings
+      Not everything has to follow the guide exactly. Choosing your own drawings makes the project feel more personal. 
+
+  - The Tamagotchi pet
+      I felt that this was necessary because every project is unique and should a touch of your own ideas and personality. 
     
 
 
