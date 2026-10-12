@@ -33,9 +33,11 @@ I kept practically all of the guides structure for my guide too because I do not
 I only changed two things:
 
   - The board drawings
-      Not everything has to follow the guide exactly. Choosing your own drawings makes the project feel more personal. 
+
+    Not everything has to follow the guide exactly. Choosing your own drawings makes the project feel more personal. 
 
   - The Tamagotchi pet
+    
       I felt that this was necessary because every project is unique and should a touch of your own ideas and personality. 
     
 
