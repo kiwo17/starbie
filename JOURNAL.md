@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuv1fen70cdp01sm9gbzkrdt). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> A tiny custom motion-controlled digital pet, basically a desktop Tamagotchi. Totallyyy not a Starboy.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
@@ -33,16 +33,16 @@ After some thinking and editing, I finally posted a real explaining my first pro
 First, I thought about my project during the day and collected some ideas for the reel.
 After sorting through my many thoughts I decided to get to work.
 
-- took a picture of my sketch
+	- took a picture of my sketch
 
 	![sketch](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2nSU0FeFWUdKhTj1YkXaIuxV7KZ67ZbK/4f617294aa324a819df1aaadb28b246cec3cebafc5b670fb026b116c90cc28e2.jpg)
 
-- edited the photo and turned it to a video
+	- edited the photo and turned it to a video
 
 	![editing](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2nSU0FeFWUdKhTj1YkXaIuxV7KZ67ZbK/6860f78040610a5d10c6c2a70a55210a027f26ac5a08d6e37a919d57440ba6ad.jpg)
 
-- recorded the audio, added it
-- exported the final product and posted
+	- recorded the audio, added it
+	- exported the final product and posted
 
 Usually, I find it difficult to make progress but today everything worked really well.
 
