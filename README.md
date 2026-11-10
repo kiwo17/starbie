@@ -19,11 +19,11 @@ I would recommend such guides to people who are just starting out. As a beginner
 
   ### Front routing
 
-  ![front](images/front_routing.png)
+  ![front](images/front_r.png)
 
   ### Back routing
 
-  ![back](images/back_routing.png)
+  ![back](images/back_r.png)
     
    
     
